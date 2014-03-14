@@ -3,13 +3,6 @@ Welcome to my first MC mod
 This is a mod made by me for minecraft for a school project.  
 In this I kinda just added whatever I wish was in mc, or I think is cool. 
   
-Planned
--------
-• Wooden Armor  
-• Accessable Sponge Block     
-• Green Screen Block
-  
-  
   
 Contents
 ---
